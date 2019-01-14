@@ -1,7 +1,12 @@
 package com.githubadvanced.demogithubadvanced;
 
 public class Future {
-    public static void main(String[] args) {
-        System.out.println("Cancer");
+    
+    public void future2(String horoscope) {
+        horoscope = "Cancer";
+
+        System.out.println(horoscope);
+
     }
 }
+
