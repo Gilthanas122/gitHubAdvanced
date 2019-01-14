@@ -6,8 +6,7 @@ public class Future {
         horoscope = "Capricorn";
         hor2 = "Lion";
 
-        System.out.println("My horoscope: " + horoscope + "Yours: " + hor2);
-
+      System.out.println("Your future looks like  " + horoscope);
     }
 }
 
