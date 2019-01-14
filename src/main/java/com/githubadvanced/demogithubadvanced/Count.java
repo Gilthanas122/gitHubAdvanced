@@ -1,7 +1,8 @@
 package com.githubadvanced.demogithubadvanced;
 
 public class Count {
-    public void count(){
-        System.out.println("My age is 32");
+    public void count(Integer n){
+        n = 12;
+        System.out.println("My age is " + n);
     }
 }
