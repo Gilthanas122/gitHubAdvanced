@@ -8,7 +8,7 @@ public class Cheer {
     }
     public void cheer2() {
         String teamName = "gitHubadvancedWTF";
-        System.out.println( "Our teamname is " + teamName );
+        System.out.println( "Cheer for the: " + teamName );
 
     }
 
